@@ -9,7 +9,7 @@ export function Footer() {
             {profile.name}
           </span>
           <p className="font-mono text-xs text-text-muted">
-            © {new Date().getFullYear()} Maitri Thummar. Crafted with React & ASP.NET expertise ❤️❤️.
+            © {new Date().getFullYear()} Maitri Thummar. Crafted with React & ASP.NET expertise.
           </p>
         </div>
 
